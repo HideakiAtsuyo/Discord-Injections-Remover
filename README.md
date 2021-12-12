@@ -1,4 +1,4 @@
-# DiscordInjectionsRemover
+# Discord Injections Remover
 
 # Ideas Or Errors
 
